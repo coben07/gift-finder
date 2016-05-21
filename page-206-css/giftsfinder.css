@@ -1,0 +1,12 @@
+.borderless > tbody > tr > td {border: none}
+.even {background-color: transparent}
+.odd {background-color: transparent;}
+.table-responsive {border-width: 0px; background-color: transparent}
+p {margin: 10px}
+.questionText {font-weight: bold; text-align: left;}
+div.campus-navigation > *::before, div.campus-navigation > *::after, #campuses::before, #campuses::after{display: inline;}
+input[type="text"], input[type="email"] {background-color: white;}
+#questionDiv {padding-top: 40px; color: white}
+.container {padding-right:0px; padding-left:0px;}
+#Submit {background-color: black}
+.answer-option, input[type="radio"] {cursor: pointer;}
